@@ -1,0 +1,7 @@
+example_two_step_form_dialog.form:
+  path: '/example-form'
+  defaults:
+    _form: '\Drupal\example_two_step_form_dialog\Form\ExampleTwoStepForm'
+    _title: 'Example two-step form'
+  requirements:
+    _permission: 'access content'

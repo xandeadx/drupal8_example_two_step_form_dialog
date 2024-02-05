@@ -1,0 +1,5 @@
+name: 'Example Two-Step Form Dialog'
+type: module
+description: 'Example'
+package: Custom
+core_version_requirement: ^10
